@@ -1,0 +1,21 @@
+{
+	"students": {"name": "Habeeb", "age": 20, "class": "jss1"},
+	"subjects": ["maths", "english", "home_economics"],
+		"contact_details": "+23469191848",
+		"email": "awotunjihabeeb@gmail.com"
+}
+
+
+{
+	"students": {"name": "hameed", "age": 21, "class": "jss2"},
+	"subjects": ["basic_science", "maths", "intro_tech"],
+	"contact_details": "09045867147",
+	"email": "jogi@gmail.com"
+}
+
+{
+	"students": {"name": "muhammad", "age": 21, "class": "jss3"},
+	"subjects": ["physics", "chemistry", "biology"],
+	"contact_details": "08100108230"
+       
+}
